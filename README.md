@@ -1,3 +1,5 @@
 # Distance_game
 
-This game is written as a study of the C # language and its possibilities.
+with learning C# syntax was created this simple app.
+
+it is not a professional project, just study project in school no more!
