@@ -1,5 +1,6 @@
-# Distance_game
+# Cube_madness
 
-with learning C# syntax was created this simple app.
+for learning a C# language i was created this simple game app
+it's not require a extended libraries or .Net frameworks, just click & play
 
-it is not a professional project, just study project in school no more!
+Ofcause it's not professional project just a study project!
