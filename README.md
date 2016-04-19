@@ -1,6 +1,4 @@
 # Cube_madness
 
-for learning a C# language i was created this simple game app
-it's not require a extended libraries or .Net frameworks, just click & play
+School project written in class introduction in C# .NET language 
 
-Ofcause it's not professional project just a study project!
